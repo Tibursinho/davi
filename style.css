@@ -15,3 +15,6 @@ body {
 .principal {
     background-image: url("Real_Madrid.png");
 }
+.container {
+    height: 100vh;
+}
