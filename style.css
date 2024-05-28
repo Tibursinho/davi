@@ -13,7 +13,7 @@ body {
     padding: 0;
 }
 .principal {
-    background-image:  --cor-de-fundo;
+    background-image:  var(--cor-de-fundo);
     background-repeat: no-repeat;
     background-size: contain;
 }
