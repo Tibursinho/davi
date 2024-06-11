@@ -16,7 +16,7 @@ body {
     padding: 0;
 }
 .principal {
-    background-image: ) var(--cor-de-fundo);
+    background-image: url("tnt-removebg-preview.png")) var(--cor-de-fundo);
     background-repeat: no-repeat;
     background-size: contain;
 }
